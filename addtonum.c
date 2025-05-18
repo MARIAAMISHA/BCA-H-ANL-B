@@ -1,5 +1,5 @@
 maria amisha
-#include<conio.h>
+maria amisha
 void main()
 {
 int a=10,b=15,c;
