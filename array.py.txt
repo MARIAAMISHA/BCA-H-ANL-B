@@ -1,7 +1,7 @@
 import numpy as np
 
 #creating an array
-
+hello
 array=np.array([[1,2,3],[4,5,6]])
 
 
