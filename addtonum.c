@@ -1,4 +1,4 @@
-#include<stdio.h>
+maria amisha
 #include<conio.h>
 void main()
 {
